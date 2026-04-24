@@ -1,0 +1,14 @@
+{
+  "name": "AEGIS Intelligence Suite",
+  "description": "A high-fidelity global security intelligence dashboard for monitoring cyber threats, asset tracking, and surveillance simulations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Mission Control Hub",
+    "Global Threat Intelligence",
+    "Asset & Satellite Tracking",
+    "Educational Vulnerability Scanner"
+  ]
+}
